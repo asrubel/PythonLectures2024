@@ -7,6 +7,7 @@ Final solution
 Fixes made
 More fixes
 
+Feature 3
 Feature 4
-Modifications
-Finished task 4
+Modifications and more code...
+Finished tasks 3 and 4
